@@ -11,4 +11,5 @@
     Site: [mikuchan.top](https://www.mikuchan.top?ref=github.com/tuanzisama/tuanzisama)
 
 
-![Tuanzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanzisama&show_icons=true&theme=prussian)
+![Tuanzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanzisama&show_icons=true&line_height=33.7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanzisama&hide=css&count_private=true)
