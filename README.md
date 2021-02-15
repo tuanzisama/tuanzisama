@@ -9,3 +9,6 @@
 ### 📫 How to reach me: 
     Email: [tuanzi@hatsunemiku.club](mailto://tuanzi@hatsunemiku.club)
     Site: [mikuchan.top](https://www.mikuchan.top?ref=github.com/tuanzisama/tuanzisama)
+
+
+![Tuanzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanzisama&show_icons=true&theme=prussian)
