@@ -4,10 +4,14 @@
 Currently, I work in a company in China. Engaged in front-end development engineer. As a Generation Z developer, I like open source, love code, and embrace the world!
   
 ### 🌱 Is learning ...
-Angular, React, Vue, Electron, Node.js, Hybrid APP, VR/AR on Web, CI/CD and blahblahblah.
+Vue, Electron, Node.js, Hybrid APP, VR on Web, CI/CD, Java, etc.
+
+### 😏 Focusing ...
+Develop mods and plugins on Minecraft. Normally use `Fabric` or base on some "macro" mod in client-side.
+In server-side, I'm developing a few plugin for my server. Including offline authentication, player teleport, third-party chat apps communication, etc. [UtoverseLib↗️](https://github.com/Utoverse/utoverse-lib)
   
 ### 📫 How to reach me: 
-Email: [tuanzi@hatsunemiku.club](mailto://tuanzi@hatsunemiku.club) (recommend to use Chinese, English, Japanese)
+Email: [tuanzi@hatsunemiku.club](mailto://tuanzi@hatsunemiku.club) (recommend to use Chinese, English)
 
 Blog: [mikuchan.top](https://www.mikuchan.top?ref=github.com/tuanzisama/tuanzisama) (only support Chinese)
 
