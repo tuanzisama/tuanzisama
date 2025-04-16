@@ -11,10 +11,7 @@ Develop mods and plugins on Minecraft. Normally use `Fabric` or base on some "ma
 In server-side, I'm developing a few plugin for my server. Including offline authentication, player teleport, third-party chat apps communication, etc. [UtoverseLib↗️](https://github.com/Utoverse/utoverse-lib)
   
 ### 📫 How to reach me: 
-~~Email: [tuanzi@hatsunemiku.club](mailto://tuanzi@hatsunemiku.club) (recommend to use Chinese, English)~~
-
-~~Blog: [mikuchan.top](https://www.mikuchan.top?ref=github.com/tuanzisama/tuanzisama) (only support Chinese)~~
-
+Email: [me@tuanzi.ink](mailto://me@tuanzi.ink)
 
 ![Tuanzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=tuanzisama&show_icons=true&line_height=33.7)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tuanzisama&hide=css&count_private=true)
